@@ -10,7 +10,8 @@ print("HOLA".lower(), first_name + " " + last_name)
 
 """
 WhiteSpace se refiere a cualquier caracter que no se 
-imprime, es decir, un espacio, tabuladores (\t)
+imprime, es decir, un espacio, tabuladores (\t),
+saltos de linea (\n), etc.
 
 """
 print("\tpython")

@@ -15,7 +15,10 @@ print(bicycicles)
 
 """
 diciendole el indice de la lista, 
-recordemos que el primer elemento de la lista 
+recordemos que el primer elemento de la lista
+tiene un indice de 0, el segundo elemento tiene un indice de 1,
+y asi sucesivamente, el ultimo elemento de la lista tiene un indice
+ de -1.
 
 """
 
